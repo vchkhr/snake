@@ -1,0 +1,12 @@
+﻿  OP Kurs.cpp
+s:\projects\op kurs\op kurs\op kurs.cpp(170): warning C4018: '<': signed/unsigned mismatch
+s:\projects\op kurs\op kurs\op kurs.cpp(176): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+s:\projects\op kurs\op kurs\op kurs.cpp(212): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+s:\projects\op kurs\op kurs\op kurs.cpp(232): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+s:\projects\op kurs\op kurs\op kurs.cpp(244): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+s:\projects\op kurs\op kurs\op kurs.cpp(266): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+s:\projects\op kurs\op kurs\op kurs.cpp(356): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+s:\projects\op kurs\op kurs\op kurs.cpp(358): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+s:\projects\op kurs\op kurs\op kurs.cpp(360): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+s:\projects\op kurs\op kurs\op kurs.cpp(362): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  OP Kurs.vcxproj -> S:\Projects\OP Kurs\Debug\OP Kurs.exe
