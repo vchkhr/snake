@@ -1,10 +1,9 @@
 #pragma once
 
-class Game
-{
+class Game {
 public:
 	bool state = true; // true - play, false - stop
-	float light[4] = { 0, -250, 0, 1 };
+	float light[4] = {0, -250, 0, 1};
 
 	int level = 1;
 	int speed;
