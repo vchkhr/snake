@@ -1,4 +1,4 @@
-# snake
+# Snake
 Snake C++ and OpenGL Game
 
 ## Skills
