@@ -12,4 +12,4 @@ As a result of the course work, the computer game "Snake" was created in the
 C++ programming language in 3D style.<br>
 Developed software can be used for entertainment purposes as a computer game.
 To further develop the game, you can add new objects and structures, textures and new game modes.<br>
-![Screenshot](/screens/screen-1.png "Screenshot")
+![Screenshot](/img/screen-1.png "Screenshot")
