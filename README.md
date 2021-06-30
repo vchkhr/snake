@@ -13,7 +13,3 @@ C++ programming language in 3D style.\
 Developed software can be used for entertainment purposes as a computer game.
 To further develop the game, you can add new objects and structures, textures and new game modes.\
 ![Screenshot](/img/screen-1.png "Screenshot")
-
-## Feedback and Donations
-Feedback is always welcome at [GitHub Issues](https://github.com/vchkhr/snake/issues).\
-You can donate to this project using [Patreon](https://patreon.com/vchkhr).
